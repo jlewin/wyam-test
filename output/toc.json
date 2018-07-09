@@ -7,11 +7,6 @@
       "Path": "docs/designing/index.md",
       "Children": [
         {
-          "Name": "Adding Existing Part",
-          "Path": "docs/designing/add-existing-part.md",
-          "Children": []
-        },
-        {
           "Name": "Design Primitives",
           "Path": "docs/designing/design-primitives/index.md",
           "Children": [
@@ -21,16 +16,36 @@
               "Children": []
             },
             {
-              "Name": "Image Converter",
-              "Path": "docs/designing/design-primitives/image-converter.md",
-              "Children": []
-            },
-            {
               "Name": "Braille Tool",
               "Path": "docs/designing/design-primitives/braille-tool.md",
               "Children": []
+            },
+            {
+              "Name": "Image Converter",
+              "Path": "docs/designing/design-primitives/image-converter.md",
+              "Children": []
             }
           ]
+        },
+        {
+          "Name": "Editing a Part",
+          "Path": "docs/designing/editing-a-part.md",
+          "Children": []
+        },
+        {
+          "Name": "Design Apps",
+          "Path": "docs/designing/design-apps/index.md",
+          "Children": []
+        },
+        {
+          "Name": "Supports",
+          "Path": "docs/designing/support.md",
+          "Children": []
+        },
+        {
+          "Name": "Adding Existing Part",
+          "Path": "docs/designing/add-existing-part.md",
+          "Children": []
         },
         {
           "Name": "Create New Part",
@@ -43,51 +58,16 @@
           "Children": []
         },
         {
-          "Name": "Supports",
-          "Path": "docs/designing/support.md",
-          "Children": []
-        },
-        {
-          "Name": "Editing a Part",
-          "Path": "docs/designing/editing-a-part.md",
-          "Children": []
-        },
-        {
           "Name": "Scale Controls",
           "Path": "docs/designing/scale-controls.md",
-          "Children": []
-        },
-        {
-          "Name": "Design Apps",
-          "Path": "docs/designing/design-apps/index.md",
           "Children": []
         }
       ]
     },
     {
-      "Name": "What's New",
-      "Path": "docs/whats-new.md",
-      "Children": []
-    },
-    {
       "Name": "Printing",
       "Path": "docs/printing/index.md",
       "Children": [
-        {
-          "Name": "Loading and Changing Filament",
-          "Path": "docs/printing/loading-and-changing-filament.md",
-          "Children": []
-        },
-        {
-          "Name": "Hotend and Extruder Controls",
-          "Path": "docs/printing/hotend-controls.md",
-          "Children": []
-        },
-        {
-          "Name": "Controls",
-          "Path": "docs/printing/controls/index.md",
-          "Children": []
-        },
         {
           "Name": "Selecting a Printer",
           "Path": "docs/printing/selecting-a-printer.md",
@@ -103,6 +83,21 @@
               "Children": []
             }
           ]
+        },
+        {
+          "Name": "Hotend and Extruder Controls",
+          "Path": "docs/printing/hotend-controls.md",
+          "Children": []
+        },
+        {
+          "Name": "Loading and Changing Filament",
+          "Path": "docs/printing/loading-and-changing-filament.md",
+          "Children": []
+        },
+        {
+          "Name": "Controls",
+          "Path": "docs/printing/controls/index.md",
+          "Children": []
         },
         {
           "Name": "Adding a new Printer",
@@ -127,13 +122,18 @@
       "Children": []
     },
     {
+      "Name": "Quick Start",
+      "Path": "docs/quick-start.md",
+      "Children": []
+    },
+    {
       "Name": "Release Notes",
       "Path": "docs/release-notes.md",
       "Children": []
     },
     {
-      "Name": "Quick Start",
-      "Path": "docs/quick-start.md",
+      "Name": "What's New",
+      "Path": "docs/whats-new.md",
       "Children": []
     }
   ]
